@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\KonusmaCns\KonusmaCns\bin\Debug\KonusmaCns.exe.config
+c:\users\user\documents\visual studio 2013\Projects\KonusmaCns\KonusmaCns\bin\Debug\KonusmaCns.exe
+c:\users\user\documents\visual studio 2013\Projects\KonusmaCns\KonusmaCns\bin\Debug\KonusmaCns.pdb
+c:\users\user\documents\visual studio 2013\Projects\KonusmaCns\KonusmaCns\obj\Debug\KonusmaCns.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\KonusmaCns\KonusmaCns\obj\Debug\KonusmaCns.exe
+c:\users\user\documents\visual studio 2013\Projects\KonusmaCns\KonusmaCns\obj\Debug\KonusmaCns.pdb
+C:\Users\tugrul\Desktop\KonusmaCns\KonusmaCns\bin\Debug\KonusmaCns.exe.config
+C:\Users\tugrul\Desktop\KonusmaCns\KonusmaCns\obj\Debug\KonusmaCns.exe
+C:\Users\tugrul\Desktop\KonusmaCns\KonusmaCns\obj\Debug\KonusmaCns.pdb
