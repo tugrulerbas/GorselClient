@@ -21,7 +21,7 @@ namespace KonusmaCns
         static void Dinle()
         {
             var UdpServer = new UdpClient();
-            UdpServer.Client.Bind(new IPEndPoint(IPAddress.Any, 8888)); // Herhangi bir IP den gelen 8888. porttan gelen mesaşı dinliyor
+            UdpServer.Client.Bind(new IPEndPoint(IPAddress.Any, 8888)); // Herhangi bir IP den gelen 8888. porttan gelen mesajı dinliyor
             UdpServer.EnableBroadcast = true;
             var ClientIP = new IPEndPoint(0, 8888);
             while (true) { 
